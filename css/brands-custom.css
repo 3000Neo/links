@@ -1,0 +1,6 @@
+/* Default */
+.button-furtrack {
+	--button-text:#ffffff;
+	--button-background:#2d0e4c;
+	--button-border:1px solid #ffffff;
+}
